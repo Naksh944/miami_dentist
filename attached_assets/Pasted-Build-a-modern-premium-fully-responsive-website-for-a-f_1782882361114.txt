@@ -1,0 +1,147 @@
+Build a modern, premium, fully responsive website for a fictional dental practice called "Miami Dentist."
+
+The goal is to create a website that looks like it belongs to a high-end private dental clinic in the United States. It should feel trustworthy, clean, luxurious, and conversion-focused.
+
+Style:
+- Modern minimalist design
+- White background with blue and teal accents
+- Rounded corners
+- Soft shadows
+- Large professional images (use placeholders)
+- Plenty of whitespace
+- Smooth scrolling animations
+- Elegant typography (Inter or Poppins)
+- Mobile-first responsive design
+- Fast loading
+- Accessibility friendly
+
+Navigation:
+- Logo: Miami Dentist
+- Home
+- About
+- Services
+- Reviews
+- Gallery
+- FAQ
+- Contact
+- Sticky navigation with CTA button "Book Appointment"
+
+Hero Section:
+- Large headline:
+  "Your Smile. Our Priority."
+- Subheadline:
+  "Providing exceptional dental care with modern technology and compassionate treatment."
+- Primary CTA:
+  "Schedule Appointment"
+- Secondary CTA:
+  "Call Now"
+- Large image of a smiling patient and dentist
+
+Trust Bar:
+Display statistics such as:
+- 5,000+ Happy Patients
+- 20+ Years Experience
+- 4.9★ Patient Rating
+- Modern Equipment
+
+About Section:
+Include:
+- Professional clinic introduction
+- Mission statement
+- Short paragraph about patient-focused care
+- Doctor/team image placeholder
+- CTA button
+
+Services Section:
+Create attractive cards for:
+- General Dentistry
+- Cosmetic Dentistry
+- Teeth Whitening
+- Dental Implants
+- Invisalign
+- Emergency Dental Care
+- Root Canal Therapy
+- Pediatric Dentistry
+
+Each card should have:
+- Modern icon
+- Short description
+- Learn More button
+
+Why Choose Us:
+Four feature cards:
+- Experienced Team
+- Latest Technology
+- Flexible Financing
+- Comfortable Experience
+
+Reviews Section:
+Display six testimonials in animated cards.
+Include:
+- Patient name
+- Five-star rating
+- Short review
+
+Gallery:
+Responsive image gallery with before/after placeholders.
+
+Meet Our Team:
+Show three dentist profile cards:
+- Photo placeholder
+- Name
+- Position
+- Short bio
+- Social icons
+
+Insurance Section:
+Show placeholder logos for major insurance providers.
+
+FAQ:
+Accordion containing:
+- Do you accept insurance?
+- Do you offer emergency appointments?
+- Is financing available?
+- How often should I visit?
+- Do you treat children?
+
+Appointment CTA:
+Large banner:
+"Ready for a healthier smile?"
+Button:
+Book Appointment
+
+Contact Section:
+Include:
+- Contact form
+- Phone
+- Email
+- Office hours
+- Address:
+1234 Ocean Drive
+Miami, FL 33139
+- Embedded Google Maps placeholder
+
+Footer:
+Include:
+- Navigation links
+- Social media icons
+- Copyright
+- Privacy Policy
+- Terms
+- "Designed for demonstration purposes"
+
+Extra Requirements:
+- Smooth fade-in animations on scroll
+- Hover effects on buttons and cards
+- Floating "Book Appointment" button on mobile
+- Sticky navigation
+- Scroll-to-top button
+- Clean modern icons
+- SEO-friendly HTML structure
+- Semantic HTML
+- Responsive grid layouts
+- Optimized for desktop, tablet, and mobile
+
+Use placeholder images from Unsplash or similar free sources.
+
+The final result should look comparable to premium dental websites built by professional agencies, with a polished, high-end appearance suitable for showcasing web design skills to potential clients.

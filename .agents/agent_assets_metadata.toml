@@ -1,0 +1,50 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "ZVUUlM6hKBDGG3PNySKOV"
+uri = "file://artifacts/miami-dentist/public/images/hero.png"
+type = "image"
+title = "Hero smiling patient"
+
+[[generated]]
+id = "hwNYS1SE-bBO8-3cBuv4Z"
+uri = "file://artifacts/miami-dentist/public/images/team.png"
+type = "image"
+title = "Dental team group photo"
+
+[[generated]]
+id = "itVSKcwYQI47KUqdcL94W"
+uri = "file://artifacts/miami-dentist/public/images/dentist-1.png"
+type = "image"
+title = "Male dentist portrait"
+
+[[generated]]
+id = "C9LDIs7PnLoqa1ej1STyF"
+uri = "file://artifacts/miami-dentist/public/images/dentist-2.png"
+type = "image"
+title = "Female dentist portrait"
+
+[[generated]]
+id = "Irrli0Nvlojksp4_TBS6Q"
+uri = "file://artifacts/miami-dentist/public/images/dentist-3.png"
+type = "image"
+title = "Male orthodontist portrait"
+
+[[generated]]
+id = "EXPRMpEel8hRMHTCIYui_"
+uri = "file://artifacts/miami-dentist/public/images/gallery-before-1.png"
+type = "image"
+title = "Teeth before whitening"
+
+[[generated]]
+id = "jiSz9v75l6R3FmoyIzAey"
+uri = "file://artifacts/miami-dentist/public/images/gallery-after-1.png"
+type = "image"
+title = "Teeth after whitening"
+
+[[generated]]
+id = "-7EUh1Zo0r3Oa2bxrG5mc"
+uri = "file://artifacts/miami-dentist/public/images/clinic-interior.png"
+type = "image"
+title = "Luxury clinic interior"
